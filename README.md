@@ -6,9 +6,9 @@
 > 1차 프로젝트 확인 : 
 > <a href="https://www.notion.so/3439f18585608061a3cfc7d647b0ab00" target="_blank">
 >   <img src="https://simpleicons.org/icons/notion.svg" alt="1차 프로젝트" width="30" height="30">
-> </a>
+> </a> <br>
 > 2차 프로젝트 확인 :
-> > <a href="https://www.notion.so/1a12f8bf7aaa82218866010809f2c5c3" target="_blank">
->   <img src="https://simpleicons.org/icons/notion.svg" alt="1차 프로젝트" width="30" height="30">
+> <a href="https://www.notion.so/1a12f8bf7aaa82218866010809f2c5c3" target="_blank">
+>   <img src="https://simpleicons.org/icons/notion.svg" alt="2차 프로젝트" width="30" height="30">
 > </a>
   
